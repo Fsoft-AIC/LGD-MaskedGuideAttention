@@ -42,4 +42,4 @@ L67 of the file `robotic_exp.py` prints the output structure. For simplicity, as
 
 For a clearer view of the output structure, please check the file `utils/dataset_processing/grasp.py` (L252-259). These lines show how to convert from grasp poses to output structure. I hope you can base on this information to revert the output structure to the grasp poses.
 
-Please contact me if you have any questions. Thank you for your time. Best regards, An.
+Please contact me if you have any questions. Thank you for your time. 
